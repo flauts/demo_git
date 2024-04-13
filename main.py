@@ -7,4 +7,4 @@ for member in KDJsCompany:
     print(49)
 
 print("Hello World")
-
+print("tuve que creer mis claves ssh sin ver el tutorial xd pense q no lo explicaban")
